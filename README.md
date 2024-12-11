@@ -20,9 +20,14 @@ Note:
 
 The program utilizes the 'conio.h' library for platform-specific functions, so it may need adjustments based on the compiler and platform. Users are encouraged to customize and enhance the program based on specific requirements. Always update the 'currDate' constant to reflect the current date for accurate eligibility calculations.
 
-![p3](https://github.com/user-attachments/assets/c1ceb732-2f8e-4d6f-892a-48337892ddee)
-![p2](https://github.com/user-attachments/assets/d551d65f-3d93-4f21-aac1-38b520d5535e)
-![p1](https://github.com/user-attachments/assets/855a9f33-0d6a-4e2e-abe7-b14e9edbf5fa)
+HOME PAGE 
+
+![p1](https://github.com/user-attachments/assets/afc9ae11-ded5-4240-9bd9-83ed81bbc60d)
 
 
+ADDING DONOR'S INFORMATION
+![p2](https://github.com/user-attachments/assets/4705c3ef-e025-4952-83fa-803ecc492254)
 
+
+UPDATE DONOR'S INFORMATION
+![p3](https://github.com/user-attachments/assets/2557d962-935c-4884-b9ae-d9571c30e7a7)
