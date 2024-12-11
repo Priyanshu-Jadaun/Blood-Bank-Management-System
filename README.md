@@ -19,3 +19,10 @@ Run the program. Choose from the main menu options to manage donor information. 
 Note:
 
 The program utilizes the 'conio.h' library for platform-specific functions, so it may need adjustments based on the compiler and platform. Users are encouraged to customize and enhance the program based on specific requirements. Always update the 'currDate' constant to reflect the current date for accurate eligibility calculations.
+
+![p3](https://github.com/user-attachments/assets/c1ceb732-2f8e-4d6f-892a-48337892ddee)
+![p2](https://github.com/user-attachments/assets/d551d65f-3d93-4f21-aac1-38b520d5535e)
+![p1](https://github.com/user-attachments/assets/855a9f33-0d6a-4e2e-abe7-b14e9edbf5fa)
+
+
+
